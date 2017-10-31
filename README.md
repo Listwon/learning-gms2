@@ -29,6 +29,8 @@ Links to blog posts, articles, videos and other materials for learning GameMaker
 
 ## Blogs
 * [http://www.davetech.co.uk/](http://www.davetech.co.uk/)
+* [The GameDev Palace](https://gdpalace.wordpress.com/)
+* [YellowAfterlife](https://yal.cc/)
 
 ## YouTube channels
 * [FriendlyCosmonaut](https://www.youtube.com/channel/UCKCKHxkH8zqV9ltWZw0JFig/videos)
