@@ -39,6 +39,7 @@ Links to blog posts, articles, videos and other materials for learning GameMaker
 * [The GameDev Palace](https://gdpalace.wordpress.com/)
 * [YellowAfterlife](https://yal.cc/)
 * [diest](http://michaelvandiest.tumblr.com/tagged/tutorial)
+* [Zack Bell Games](https://zackbellgames.com/)
 
 ## YouTube channels
 * [FriendlyCosmonaut](https://www.youtube.com/channel/UCKCKHxkH8zqV9ltWZw0JFig/videos)
