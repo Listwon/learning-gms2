@@ -24,6 +24,11 @@ Links to blog posts, articles, videos and other materials for learning GameMaker
 	* [Silhouettes](https://www.yoyogames.com/blog/382/silhouettes)
 	* [Surfaces and Transitions - Part 1](https://www.yoyogames.com/blog/387/surfaces-and-transitions-part-1)
 * [Information](https://help.yoyogames.com/hc/en-us/sections/206765708-Information)
+	* [Alpha and Surfaces](https://www.yoyogames.com/blog/60/alpha-and-surfaces)
+	* [Shaders Overview - Part 1](https://www.yoyogames.com/blog/14/shaders-overview-part-1)
+	* [Shaders Overview - Part 2](https://www.yoyogames.com/blog/16/shaders-overview-part-2)
+	* [Shaders Overview - Part 3](https://www.yoyogames.com/blog/17/shaders-overview-part-3)
+	* [Shaders Overview - Part 4](https://www.yoyogames.com/blog/18/shaders-overview-part-4)
 	* [New Functions List ](https://help.yoyogames.com/hc/en-us/articles/231539867)
 * [Marketplace](https://marketplace.yoyogames.com/)
 
@@ -31,6 +36,7 @@ Links to blog posts, articles, videos and other materials for learning GameMaker
 * [http://www.davetech.co.uk/](http://www.davetech.co.uk/)
 * [The GameDev Palace](https://gdpalace.wordpress.com/)
 * [YellowAfterlife](https://yal.cc/)
+* [diest](http://michaelvandiest.tumblr.com/tagged/tutorial)
 
 ## YouTube channels
 * [FriendlyCosmonaut](https://www.youtube.com/channel/UCKCKHxkH8zqV9ltWZw0JFig/videos)
