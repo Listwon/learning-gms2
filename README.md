@@ -53,8 +53,10 @@ Links to blog posts, articles, videos and other materials for learning GameMaker
 * [Stefan Randa](https://www.youtube.com/channel/UCHkfmOA8oKhi29owGkZI0cg/videos)
 * [Let's Learn GameMaker: Studio](https://www.youtube.com/user/letslearngamemaker/videos)
 * [Driftwood Gaming](https://www.youtube.com/channel/UCJH5XV4YrFDwhdbX4VISqUQ/videos)
+* [GameMakerStation](https://www.youtube.com/channel/UCG9UNVaFpL0qCFUvIys1omg/videos)
 
 ## Other
 ### Shaders
 * [OpenGL ES Shading Language (GLSL ES) Reference Pages](https://www.khronos.org/registry/OpenGL/specs/es/2.0/es_cm_spec_2.0.pdf)
-* [OpenGL ES Reference Card](https://www.khronos.org/opengles/sdk/docs/reference_cards/OpenGL-ES-2_0-Reference-card.pdf)
+* [OpenGL ES Reference Card](https://www.khronos.org/opengles/sdk/docs/reference_cards/OpenGL-ES-2_0-Reference-card.pdf)*
+* [Xor Shaders Tutorials](http://xorshaders.weebly.com/)
