@@ -53,6 +53,7 @@ Links to blog posts, articles, videos and other materials for learning GameMaker
 * [Stefan Randa](https://www.youtube.com/channel/UCHkfmOA8oKhi29owGkZI0cg/videos)
 * [Let's Learn GameMaker: Studio](https://www.youtube.com/user/letslearngamemaker/videos)
 * [Driftwood Gaming](https://www.youtube.com/channel/UCJH5XV4YrFDwhdbX4VISqUQ/videos)
+* [Beyond Us Games](https://www.youtube.com/channel/UCHfgp0ynCQhlTyMiTPvPBkg/videos)
 * [GameMakerStation](https://www.youtube.com/channel/UCG9UNVaFpL0qCFUvIys1omg/videos)
 
 ## Other
