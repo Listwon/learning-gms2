@@ -6,6 +6,7 @@ Links to blog posts, articles, videos and other materials for learning GameMaker
 * [YouTube channels](#youtube-channels)
 * [Other](#other)
 	* [Shaders](#shaders)
+	* [General tips and tutorials](#general-tips-and-tutorials)
 
 ## Official materials
 * [Documentation](http://docs2.yoyogames.com/)
@@ -61,3 +62,10 @@ Links to blog posts, articles, videos and other materials for learning GameMaker
 * [OpenGL ES Shading Language (GLSL ES) Reference Pages](https://www.khronos.org/registry/OpenGL/specs/es/2.0/es_cm_spec_2.0.pdf)
 * [OpenGL ES Reference Card](https://www.khronos.org/opengles/sdk/docs/reference_cards/OpenGL-ES-2_0-Reference-card.pdf)
 * [Xor Shaders Tutorials](http://xorshaders.weebly.com/)
+
+### General tips and tutorials
+* [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
+* [Game Mechanic Explorer](https://gamemechanicexplorer.com/#)
+* [The art of screenshake](https://www.youtube.com/watch?v=AJdEqssNZ-U)
+* [Juice it or lose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
+* [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
