@@ -69,3 +69,4 @@ Links to blog posts, articles, videos and other materials for learning GameMaker
 * [The art of screenshake](https://www.youtube.com/watch?v=AJdEqssNZ-U)
 * [Juice it or lose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 * [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
+* [Game Programming Patterns](http://gameprogrammingpatterns.com/)
