@@ -66,6 +66,7 @@ Links to blog posts, articles, videos and other materials for learning GameMaker
 * [OpenGL ES Shading Language (GLSL ES) Reference Pages](https://www.khronos.org/registry/OpenGL/specs/es/2.0/es_cm_spec_2.0.pdf)
 * [OpenGL ES Reference Card](https://www.khronos.org/opengles/sdk/docs/reference_cards/OpenGL-ES-2_0-Reference-card.pdf)
 * [Xor Shaders Tutorials](http://xorshaders.weebly.com/)
+* [The Book of Shaders](https://thebookofshaders.com/)
 
 ### General tips and tutorials
 * [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
