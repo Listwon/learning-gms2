@@ -35,6 +35,7 @@ Links to blog posts, articles, videos and other materials for learning GameMaker
 	* [Ghosted Parent Events and Object Variables](https://www.yoyogames.com/blog/454/ghosted-parent-events-and-object-variables)
 	* [Depth base mouse collision](https://www.yoyogames.com/blog/427/depth-base-mouse-collision)
 	* [Z-Tilting: Shader Based 2.5D Depth Sorting](https://www.yoyogames.com/blog/458/z-tilting-shader-based-2-5d-depth-sorting)
+	* [Dynamic MP Grids](https://www.yoyogames.com/blog/459/dynamic-mp-grids)
 * [Information](https://help.yoyogames.com/hc/en-us/sections/206765708-Information)
 	* [New Functions List ](https://help.yoyogames.com/hc/en-us/articles/231539867)
 * [Marketplace](https://marketplace.yoyogames.com/)
