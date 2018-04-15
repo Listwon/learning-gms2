@@ -40,6 +40,7 @@ Links to blog posts, articles, videos and other materials for learning GameMaker
 * [Information](https://help.yoyogames.com/hc/en-us/sections/206765708-Information)
 	* [New Functions List ](https://help.yoyogames.com/hc/en-us/articles/231539867)
 * [Marketplace](https://marketplace.yoyogames.com/)
+* [Help](https://help.yoyogames.com/hc/en-us/categories/204246668-GameMaker-Studio-2)
 
 ## Blogs
 * [http://www.davetech.co.uk/](http://www.davetech.co.uk/)
