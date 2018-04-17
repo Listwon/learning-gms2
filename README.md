@@ -63,6 +63,7 @@ Links to blog posts, articles, videos and other materials for learning GameMaker
 * [Driftwood Gaming](https://www.youtube.com/channel/UCJH5XV4YrFDwhdbX4VISqUQ/videos)
 * [Beyond Us Games](https://www.youtube.com/channel/UCHfgp0ynCQhlTyMiTPvPBkg/videos)
 * [GameMakerStation](https://www.youtube.com/channel/UCG9UNVaFpL0qCFUvIys1omg/videos)
+* [The Step Event](https://www.youtube.com/channel/UCJeEe1CjKkblOqMVsBjumIA)
 
 ## Other
 ### Shaders
